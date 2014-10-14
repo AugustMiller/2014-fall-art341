@@ -1,0 +1,11 @@
+Title: ART341
+----
+Term: Fall 2014
+----
+Author: August Miller
+----
+Description: Fall 2014 Session of ART341: Interactive Design I.
+----
+Keywords: education, university, fall 2014, computer science, design, technology
+----
+Copyright: Built with (link: http://getkirby.com/ text: Kirby CMS) by (link: http://gusmiller.com/ text: August W. Miller) for ART341, Fall 2014 at Portland State University.
