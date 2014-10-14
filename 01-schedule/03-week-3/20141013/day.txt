@@ -16,4 +16,4 @@ Checklist:
 
 ----
 Concepts:
-Floats, Positioning, Columnar Layouts, CSS3, Design for the Screen
+Floats, Columnar Layouts

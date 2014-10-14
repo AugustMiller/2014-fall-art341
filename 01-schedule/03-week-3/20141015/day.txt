@@ -1,0 +1,14 @@
+Title: Day 6
+----
+Date: Wednesday, 20141015
+----
+Agenda:
+
+Building on our two-column demo from (link: #day-5 text: Monday), we'll continue to build sophsticated layouts using the CSS `float`, `position` and `clear` properties.
+----
+Checklist:
+- Post (resource: project-1.pdf page: resources text: Project 1) subjects and attribute outline
+
+----
+Concepts:
+Positioning, CSS3, Design for the Screen
