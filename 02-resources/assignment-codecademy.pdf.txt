@@ -1,4 +1,4 @@
-Title: Blog Demo
+Title: Codecademy Assignment Structure
 ----
 Description:
-For use in class Wednesday, 8 October. We'll be working primarily with CSS to style a basic blog feed.
+Please review the expectations and deadlines for the use of (link: http://www.codecademy.com/ text: Codecademy).
