@@ -4,11 +4,17 @@ Date: Wednesday, 20141015
 ----
 Agenda:
 
+We'll start the day by talking about Codecademy and the (resource: assignment-codecademy.pdf page: resources text: expectations for work done therein).
+
+In preparation of for the work due Monday, we'll run through an example of wireframes and content outlines.
+
 Building on our two-column demo from (link: #day-5 text: Monday), we'll continue to build sophsticated layouts using the CSS `float`, `position` and `clear` properties.
+
+We'll move on to some other special effects that leverage CSS3 to create rich visual interfaces, without raster graphics.
 ----
 Checklist:
-- Post (resource: project-1.pdf page: resources text: Project 1) subjects and chosen attributes to Slack.
+- Post (resource: project-1.pdf page: resources text: Project 1) subjects and chosen attributes to Slack by the beginning of class.
 
 ----
 Concepts:
-Positioning, CSS3, Design for the Screen
+Positioning, CSS3, Special Effects
