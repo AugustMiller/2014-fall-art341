@@ -1,0 +1,22 @@
+Title: Day 7
+----
+Date: 20141027
+----
+Agenda:
+
+Today is a work day. Be prepared to discuss your progress on Project 1. We'll resolve any big issues in preparation for the last engineering sprint.
+
+We may do some demos if recurring issues emerge. _Revel in the amount of new learning you've done in the last four weeks!_
+
+----
+Checklist:
+- One progress check-in is _required_ during class time.
+- Codecademy progress will be recorded at the end of class.
+
+
+----
+Concepts:
+Pitching Ideas, Defending Work, Research & Strategy
+
+----
+Notes:
