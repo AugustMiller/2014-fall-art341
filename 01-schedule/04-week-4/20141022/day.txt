@@ -10,7 +10,7 @@ You'll be surprised how much we can accomplish with just CSS— oftentimes, imag
 
 ----
 Checklist:
-- Your completed site design (Homepage and one Sub-page) is due on Slack by midnight.
+- Your completed site design (Homepage and one Sub-page) is due on Slack by midnight, 22 October.
 
 ----
 Concepts:
