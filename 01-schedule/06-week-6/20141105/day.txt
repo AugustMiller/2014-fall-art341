@@ -1,0 +1,14 @@
+Title: Day 10
+----
+Date: 20141105
+----
+Agenda:
+
+We'll use most of class time for 1-on-1 check ins for (resource: project-2 page: resources text: Project 2).
+----
+Checklist:
+- _Project 1 is due at the beginning of class._ It must be hosted on a publicly accessible server, and ready for group review. Post a link to it in `#projects` on Slack.
+
+----
+Concepts:
+Discussing Work
