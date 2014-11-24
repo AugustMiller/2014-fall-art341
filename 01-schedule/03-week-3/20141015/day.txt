@@ -13,7 +13,7 @@ Building on our two-column demo from (link: #day-5 text: Monday), we'll continue
 We'll move on to some other special effects that leverage CSS3 to create rich visual interfaces, without raster graphics.
 ----
 Checklist:
-- Post (resource: project-1.pdf page: resources text: Project 1) subjects and chosen attributes to Slack by the beginning of class.
+- Post (resource: project-1.pdf page: files/project-1 text: Project 1) subjects and chosen attributes to Slack by the beginning of class.
 
 ----
 Concepts:
